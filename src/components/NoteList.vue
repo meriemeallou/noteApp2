@@ -1,7 +1,7 @@
 <template>
     <div class="d-flex justify-content-center align-items-center">
        <div class="container">
-         <h1 class="text-center my-4">Your Notes</h1>
+         <h1 class="text-center my-4">Notes</h1>
          <div class="row">
            <div class="col-12 mb-4" v-for="note in notes" :key="note.id">
              <div class="card" style="width: 100%;">
