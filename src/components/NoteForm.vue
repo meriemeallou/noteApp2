@@ -1,6 +1,6 @@
 <template>
     <div class="container my-3 ">
-      <h1 style="text-align: center;">Add a Note</h1>
+      <h1 style="text-align: center;">Add your Note</h1>
       <div class="card my-2 mx-auto" style="width: 400px;">
         <div class="card-body">
           <form>
